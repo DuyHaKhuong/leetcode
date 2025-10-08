@@ -1,0 +1,10 @@
+{
+  "approval_policy": "never",
+  "network_access": "enabled",
+  "sandbox_mode": "workspace-write",
+  "allow_gui_open": true,
+  "default_open_app": "IntelliJ IDEA CE",
+  "auto_escalate_patterns": [
+    "^python3\\s+leetgrab\\.py(\s|$)"
+  ]
+}
