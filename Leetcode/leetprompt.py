@@ -28,6 +28,8 @@ Given the following raw problem description (extracted from LeetCode, possibly p
 If the file exists, ask user again if they want to overwrite it or open it in IDE. Please generate a single Python file
 with the following structure:
 
+0. You can run python3 leetgrab.py to generate most of the content (possibly in poor format) before step 1
+
 1. A clean top-level docstring:
    - Title, URL, Difficulty, Fetched date
    - A well-formatted description in paragraphs
